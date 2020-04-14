@@ -51,7 +51,7 @@
 
 ## SUPPORT:
 1. We do NOT provide support. But you can review the code and test it out. We highly encourage to make updates and check 
-   back in. The code is not optimized. The code is not clean. It does require a lot more work. Our methods might
+   back in. The code is not optimized. The code has not been reviewed. It does require a lot more work. Our methods might
    not even be the best way to do it. But from our end it works.
 
 
