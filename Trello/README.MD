@@ -5,7 +5,7 @@
 #### AUTHOR: FRANK FRISBY
 #### DATE: 1/25/2020
 
-                      ![](https://upload.wikimedia.org/wikipedia/en/8/8c/Trello_logo.svg)
+![](https://upload.wikimedia.org/wikipedia/en/8/8c/Trello_logo.svg)
 
 ## EXPECTATIONS:
 1. This service is small so it does not deliver everything that Trello offers.
