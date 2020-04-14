@@ -30,7 +30,7 @@
 3. Review the /TestTrello.php as a starting point to get a sense of the code.
 4. Create a Trello Account
 5. Create at least 1 board for testing and at least 1 list for testing.
-6. Read the Trello API https://developers.trello.com/reference#introduction
+6. Read the Trello API https://developer.atlassian.com/cloud/trello/
 7. Create a developer account in trello.
 8. Create a token with your account (Sorry we didn't write code to connect into other people accounts)
   - If someone wants to add to this code, it would be great to connect into other accounts.
@@ -58,5 +58,11 @@
 ## WHY DID WE CREATE THIS
 1. We created this code because we needed a way to display our results in real time where they were created. We didn't need
    a full app. We just needed to display updates as alerts with the results so it Trello came in handy at the time.
+
+## INTERACTIONS WITH TRELLO
+1. Trello recently changed their API. Atlassian bought Trello a while ago. But recently Trello was switched be on the Atlassian    
+   cloude service. So it does look different than what I have in the tutorial. I asked Trello to please quickly update the new
+   API so that it easy on the eyes. They have made some strides to do that because te new API was not exactly the best looking.
+
 
 ## Thank you!
