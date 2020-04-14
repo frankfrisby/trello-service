@@ -61,8 +61,9 @@
 
 ## INTERACTIONS WITH TRELLO
 1. Trello recently changed their API. Atlassian bought Trello a while ago. But recently Trello was switched be on the Atlassian    
-   cloude service. So it does look different than what I have in the tutorial. I asked Trello to please quickly update the new
-   API so that it easy on the eyes. They have made some strides to do that because te new API was not exactly the best looking.
+   cloud service. So it does look different than what I have in the tutorial. 
+   (~End of March 2020, I asked Trello to please quickly update the new API so that it easy on the eyes. 
+   They have made some strides to do that because te new API was not exactly the best looking.
 
 
 ## Thank you!
