@@ -5,6 +5,7 @@
 AUTHOR: FRANK FRISBY
 DATE: 1/25/2020
 
+https://upload.wikimedia.org/wikipedia/en/8/8c/Trello_logo.svg
 
 EXPECTATIONS:
 1. This service is small so it does not deliver everything that Trello offers.
@@ -23,11 +24,12 @@ REQUIREMENTS:
 
 INSTRUCTIONS:
 
+I talk about this on YouTube https://www.youtube.com/watch?v=89p25MIpIi0
 1. Download/Clone the trello service/library from github.
 2. Place into your preferred directory.
 3. Review the /TestTrello.php as a starting point to get a sense of the code.
 4. Create a Trello Account
-5. Create at least 1 board for testing.
+5. Create at least 1 board for testing and at least 1 list for testing.
 6. Read the Trello API https://developers.trello.com/reference#introduction
 7. Create a developer account in trello.
 8. Create a token with your account (Sorry we didn't write code to connect into other people accounts)
