@@ -1,13 +1,13 @@
 ******************************************************
-            #THINKMOAT: TRELLO SERVICE
+              THINKMOAT: TRELLO SERVICE
 ******************************************************
 
-####AUTHOR: FRANK FRISBY
-####DATE: 1/25/2020
+#### AUTHOR: FRANK FRISBY
+#### DATE: 1/25/2020
 
 ![](https://upload.wikimedia.org/wikipedia/en/8/8c/Trello_logo.svg)
 
-##EXPECTATIONS:
+## EXPECTATIONS:
 1. This service is small so it does not deliver everything that Trello offers.
 2. This service only helps with updaing "name" and "position" (CRUD) on trello.
 3. Not all parts of this code is tested as it needs more work. So please note you will have to do some hacking to get what you need.
@@ -17,13 +17,12 @@
     makes updates, it may be updated in gitub.
 
 
-REQUIREMENTS:
+## REQUIREMENTS:
 1. Have php 7.1 installed (other distributions may work but are not reliable. More testing is needed.)
 2. Vistual Studio Code (Preferred but any other IDE will work.) PHP debugger would be nice.
 3. No other dependencies are needed because this code is built purely from scratch based on the Trello API service as of 1/25/2020
 
-INSTRUCTIONS:
-
+## INSTRUCTIONS:
 I talk about this on YouTube https://www.youtube.com/watch?v=89p25MIpIi0
 1. Download/Clone the trello service/library from github.
 2. Place into your preferred directory.
@@ -48,15 +47,14 @@ I talk about this on YouTube https://www.youtube.com/watch?v=89p25MIpIi0
 15. Review /Tests/TrelloTest.php. As this file will have more examples to use for /TestTrello.php
 16. Happy Coding
 
-SUPPORT:
-
+## SUPPORT:
 1. We do not provide support. But you can review the code and test it out. We highly encourage to make updates and check 
    back in. The code is not optimized. The code is not clean. It does require a lot more work. Our methods might
    not even be the best way to do it. But from our end it works.
 
 
-WHY DID WE CREATE THIS
+## WHY DID WE CREATE THIS
 1. We created this code because we needed a way to display our results in real time where they were created. We didn't need
    a full app. We just needed to display updates as alerts with the results so it Trello came in handy at the time.
 
-Thank you!
+## Thank you!
