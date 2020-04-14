@@ -1,0 +1,9 @@
+{
+    "api": "trello",
+    "ver": "1.0",
+    "apikey": "{ apikeythattrelloprovides }",
+    "secret": "{ secretthattrelloprovides }",
+    "documentation": "https://developers.trello.com/reference#introduction",
+    "url": "https://api.trello.com/",
+    "dir": "{ YourDirectory }"
+}

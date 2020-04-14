@@ -1,0 +1,10 @@
+{
+    "username": "{ trellousername }",
+    "token": "{ usergeneratedtoken }",
+    "id": "{ useridforapi }",
+    "boards": [
+        {
+            "boardid": "{ boardidshowninbrowser }"
+        }
+    ]
+}
