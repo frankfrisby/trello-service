@@ -1,6 +1,6 @@
-******************************************************
-              THINKMOAT: TRELLO SERVICE
-******************************************************
+************************************************************************
+              THINKMOAT: TRELLO SERVICE USING TRELLO API
+************************************************************************
 
 #### AUTHOR: FRANK FRISBY
 #### DATE: 1/25/2020
@@ -10,7 +10,8 @@
 ## EXPECTATIONS:
 1. This service is small so it does not deliver everything that Trello offers.
 2. This service only helps with updaing "name" and "position" (CRUD) on trello.
-3. Not all parts of this code is tested as it needs more work. So please note you will have to do some hacking to get what you need.
+3. Not all parts of this code is tested as it needs more work. 
+    So please note you will have to do some hacking to get what you need.
 4. This Trello service can be expanded to do more things if more developers in the community branch off and expand.
 5. This code and parties who authored are not responsible for how it is used. But we expect everyone to be ethical.
 6. The code is not complete as it needs more work but the author is not supporting. However, if the author does
@@ -43,7 +44,7 @@ I talk about this on YouTube https://www.youtube.com/watch?v=89p25MIpIi0
     - The purpose the /userconfig.json file is because it is for testing purposes and easy to start.
 12. In your terminal or cmd/Poweshell Navigate to the Trello Directory.
 13. Execute the code in the target directory. 
-> "php TestTrello.php"
+> php TestTrello.php
 14. The code should have ran and review in your trello board in the browser.
 15. Review /Tests/TrelloTest.php. As this file will have more examples to use for /TestTrello.php
 16. Happy Coding
