@@ -45,7 +45,7 @@
 12. In your terminal or cmd/Poweshell Navigate to the Trello Directory.
 13. Execute the code in the target directory. 
     
-    > php TestTrello.php
+                                        > php TestTrello.php
 
 14. The code should have ran and review in your trello board in the browser.
 15. Review /Tests/TrelloTest.php. As this file will have more examples to use for /TestTrello.php
