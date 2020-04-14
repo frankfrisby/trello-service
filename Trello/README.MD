@@ -17,6 +17,7 @@
 6. The code is not complete as it needs more work but the author is not supporting. However, if the author does
     makes updates, it may be updated in github.
 
+   Light Tuturial on building the Service on YouTube https://www.youtube.com/watch?v=89p25MIpIi0
 
 ## REQUIREMENTS:
 1. Have php 7.1 installed (other distributions may work but are not reliable. More testing is needed.)
@@ -24,7 +25,6 @@
 3. No other dependencies are needed because this code is built purely from scratch based on the Trello API service as of 1/25/2020
 
 ## INSTRUCTIONS:
-I talk about this on YouTube https://www.youtube.com/watch?v=89p25MIpIi0
 1. Download/Clone the trello service/library from github.
 2. Place into your preferred directory.
 3. Review the /TestTrello.php as a starting point to get a sense of the code.
