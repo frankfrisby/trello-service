@@ -7,7 +7,7 @@ DATE: 1/25/2020
 
 ![](https://upload.wikimedia.org/wikipedia/en/8/8c/Trello_logo.svg)
 
-EXPECTATIONS:
+**EXPECTATIONS:**
 1. This service is small so it does not deliver everything that Trello offers.
 2. This service only helps with updaing "name" and "position" (CRUD) on trello.
 3. Not all parts of this code is tested as it needs more work. So please note you will have to do some hacking to get what you need.
