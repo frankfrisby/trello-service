@@ -33,9 +33,9 @@
 6. Read the Trello API https://developer.atlassian.com/cloud/trello/
 7. Create a developer account in trello.
 8. Create a token with your account (Sorry we didn't write code to connect into other people accounts)
-  - If someone wants to add to this code, it would be great to connect into other accounts.
-  - You can only have one token per account. You will have to use Trello's frontend js code
-    to pull the user's token via your app.
+    - If someone wants to add to this code, it would be great to connect into other accounts.
+    - You can only have one token per account. You will have to use Trello's frontend js code
+      to pull the user's token via your app.
 9. Grab your API Key because you will need this.
 10. Open the /Config.json file and add your developer credentials.
 11. Open /userconfig.json and add your user information. (This is based on your user account or any account you have)
@@ -44,7 +44,9 @@
     - The purpose the /userconfig.json file is because it is for testing purposes and easy to start.
 12. In your terminal or cmd/Poweshell Navigate to the Trello Directory.
 13. Execute the code in the target directory. 
-> php TestTrello.php
+    
+    > php TestTrello.php
+
 14. The code should have ran and review in your trello board in the browser.
 15. Review /Tests/TrelloTest.php. As this file will have more examples to use for /TestTrello.php
 16. Happy Coding
