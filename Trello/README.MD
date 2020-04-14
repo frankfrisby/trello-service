@@ -17,7 +17,7 @@
 6. The code is not complete as it needs more work but the author is not supporting. However, if the author does
     makes updates, it may be updated in github.
 
-   Light Tuturial on building the Service on YouTube [](https://www.youtube.com/watch?v=89p25MIpIi0)
+   Light Tuturial on building the Service on YouTube ![](https://www.youtube.com/watch?v=89p25MIpIi0)
 
 ## REQUIREMENTS:
 1. Have php 7.1 installed (other distributions may work but are not reliable. More testing is needed.)
@@ -30,7 +30,7 @@
 3. Review the /TestTrello.php as a starting point to get a sense of the code.
 4. Create a Trello Account
 5. Create at least 1 board for testing and at least 1 list for testing.
-6. Read the Trello API [](https://developers.trello.com/reference#introduction)
+6. Read the Trello API ![](https://developers.trello.com/reference#introduction)
 7. Create a developer account in trello.
 8. Create a token with your account (Sorry we didn't write code to connect into other people accounts)
   - If someone wants to add to this code, it would be great to connect into other accounts.
